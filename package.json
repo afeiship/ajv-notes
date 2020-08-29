@@ -1,0 +1,18 @@
+{
+  "name": "@feizheng/ajv-notes",
+  "version": "1.0.0",
+  "description": "Ajv notes.",
+  "homepage": "https://github.com/afeiship/ajv-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "ajv": "^6.12.4",
+    "ajv-i18n": "^3.5.0"
+  }
+}
